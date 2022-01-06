@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import Banner from './Banner'
-
+// wsss
 function Home() {
     return (
         <div className='home'>
@@ -10,5 +10,5 @@ function Home() {
         </div>
     )
 }
-// reverting a commti
+
 export default Home
