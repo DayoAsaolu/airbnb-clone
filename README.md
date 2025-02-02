@@ -1,3 +1,2 @@
 # Airbnb clone
-
-## Updated by automation
+omation
