@@ -1,5 +1,3 @@
 # Airbnb clone
 omation
-edcwerf
-3erfg
-fds
+f
